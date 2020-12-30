@@ -160,7 +160,7 @@ export default {
     // 页面大小显示条数
     size: {
       type: Number,
-      default: 11
+      default: 10
     },
     // 显示的最大页码个数
     dist: {
@@ -254,6 +254,7 @@ export default {
         cur = result - 1
       }
       if (cur !== this.current) {
+        // 传递选中的页码
         this.$emit('changeCurrent', cur)
       }
     },
