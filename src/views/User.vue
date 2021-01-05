@@ -41,7 +41,7 @@
           href="javascript:;"
           class="layui-btn layui-btn-normal fly-imActive"
           data-type="chat"
-          >发起会话</a
+          >发起会话~</a
         >
       </div>
     </div>
