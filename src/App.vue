@@ -99,7 +99,7 @@ a {
 @keyframes bounceIn {
   0% {
     opacity: 0;
-    transform: scale(0.5);
+    transform: scale(0.4);
   }
   100% {
     opacity: 1;
