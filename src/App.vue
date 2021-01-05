@@ -111,7 +111,7 @@ a {
     transform: scale(1);
   }
   30% {
-    transform: scale(1.1);
+    transform: scale(1.3);
   }
   100% {
     opacity: 0;
