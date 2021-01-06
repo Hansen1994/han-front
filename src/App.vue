@@ -23,7 +23,7 @@ export default {
 @import 'assets/css/layer/layer.css';
 /* 公共样式 */
 .gray {
-  color: #999;
+  color: #999999;
 }
 .fly-panel {
   margin-bottom: 15px;
